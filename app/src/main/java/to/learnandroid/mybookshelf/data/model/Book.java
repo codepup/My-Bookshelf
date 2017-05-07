@@ -1,4 +1,4 @@
-package to.learnandroid.mybookshelf;
+package to.learnandroid.mybookshelf.data.model;
 
 /**
  * Created by Matt on 2017-05-06.

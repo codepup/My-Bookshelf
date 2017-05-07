@@ -1,4 +1,4 @@
-package to.learnandroid.mybookshelf;
+package to.learnandroid.mybookshelf.utils;
 
 import android.text.TextUtils;
 import android.util.Log;
@@ -17,6 +17,8 @@ import java.net.URL;
 import java.nio.charset.Charset;
 import java.util.ArrayList;
 import java.util.List;
+
+import to.learnandroid.mybookshelf.data.model.Book;
 
 /**
  * Created by Matt on 2017-05-06.
