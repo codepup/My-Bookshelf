@@ -21,6 +21,7 @@ import to.learnandroid.mybookshelf.R;
 
 //TODO Create adapter.
 public class BookAdapter extends RecyclerView.Adapter<BookAdapter.ViewHolder> {
+    private static final String LOG_TAG = BookAdapter.class.getSimpleName();
     private List<Book> books;
 
     BookAdapter(List<Book> books) {
