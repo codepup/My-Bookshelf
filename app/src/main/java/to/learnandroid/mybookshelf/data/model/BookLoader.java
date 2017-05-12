@@ -1,7 +1,7 @@
 package to.learnandroid.mybookshelf.data.model;
 
-import android.content.AsyncTaskLoader;
 import android.content.Context;
+import android.support.v4.content.AsyncTaskLoader;
 
 import java.util.List;
 
